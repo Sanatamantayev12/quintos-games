@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../IntroToJava"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": ["games_java/PickAPath"],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": ["lib/**/*.jar"],
+		"liveServer.settings.multiRootWorkspaceName": "quintos-games"
+	}
+}
